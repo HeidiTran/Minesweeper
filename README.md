@@ -1,4 +1,4 @@
-# mine-sweeper
+# Minesweeper
 
 Simple classic Minesweeper game with 3 levels of difficulty (easy/medium/hard) using C++
 
